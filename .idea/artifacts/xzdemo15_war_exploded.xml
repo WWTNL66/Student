@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="xzdemo15:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/xzdemo15_war_exploded</output-path>
+    <root id="archive" name="xzdemo15_war exploded.war">
+      <element id="javaee-facet-resources" facet="Student/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Student" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-5.1.18-bin" />
+          <element id="library" level="project" name="commons-dbutils-1.4" />
+          <element id="library" level="module" name="JUnit4" module-name="xzdemo15" />
+          <element id="library" level="module" name="JUnit4" module-name="Student" />
+          <element id="library" level="project" name="jstl" />
+          <element id="library" level="project" name="standard" />
+          <element id="library" level="project" name="commons-io-2.6" />
+          <element id="library" level="project" name="commons-fileupload-1.4" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

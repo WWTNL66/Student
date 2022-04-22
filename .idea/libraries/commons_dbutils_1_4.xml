@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="commons-dbutils-1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-dbutils-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/fastjson-1.2.58.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-pool-1.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-dbcp-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-codec-1.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
